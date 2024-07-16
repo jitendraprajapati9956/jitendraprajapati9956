@@ -1,6 +1,8 @@
 # 💫 About Me:
-i'm currently working on android application 
+<h1 align="center">Hi, I am Jitendra Prajapati</h1>
+<h3 align="center">A Passionate Backend Developer</h1>
 
+i'm currently working on android application 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prajapatijitendra/) 
